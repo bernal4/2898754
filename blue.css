@@ -1,0 +1,14 @@
+.dog-image {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .dog-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+    box-shadow: 0px 5px 10px rgba(0,0,0,0.1);
+  }
